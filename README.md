@@ -26,7 +26,7 @@ The MNIST dataset is a collection of 70,000 grayscale images of handwritten digi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/MNIST-Digit-Classification-PyTorch.git
+   git clone https://github.com/ata-turhan/MNIST-Digit-Classification-PyTorch.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -55,18 +55,13 @@ MNIST-Digit-Classification-PyTorch/
 │
 ├── README.md                       # Project overview
 ├── mnist_digit_classification.ipynb # Main notebook
-├── submission.csv                  # Example Kaggle submission
 ├── requirements.txt                # Python dependencies
-├── src/                            # Optional: modularized code
-│   ├── dataset.py                  # Dataset-related code
-│   ├── model.py                    # Model architecture
-│   └── train.py                    # Training logic
 └── LICENSE                         # MIT License
 ```
 
 ## Results
 
-The model achieves an accuracy of **XX.XX%** on the validation set and **XX.XX%** on Kaggle leaderboard submissions.
+The model achieves an accuracy of **96.95%** on the validation set and **96.89%** on Kaggle leaderboard submissions.
 
 ## Contributing
 
